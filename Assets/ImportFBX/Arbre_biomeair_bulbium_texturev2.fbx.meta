@@ -1,0 +1,274 @@
+fileFormatVersion: 2
+guid: bb3b9f7d9e6f88b4ca26dd5c2960ebce
+timeCreated: 1524577604
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Ballon 01
+    100004: Ballon02
+    100006: Branche01
+    100008: Branche02
+    100010: Branche03
+    100012: Cratere
+    100014: Icosphere.022
+    100016: Icosphere.029
+    100018: Icosphere.030
+    100020: Icosphere.031
+    100022: Icosphere.032
+    100024: Icosphere.033
+    100026: Icosphere.034
+    100028: Icosphere.035
+    100030: Icosphere.036
+    100032: Icosphere.037
+    100034: Icosphere.038
+    100036: Icosphere.039
+    100038: Icosphere.040
+    100040: Icosphere.041
+    100042: Icosphere.042
+    100044: Icosphere.043
+    100046: Icosphere.044
+    100048: Icosphere.045
+    100050: Icosphere.046
+    100052: Icosphere.047
+    100054: Icosphere.048
+    100056: Icosphere.049
+    100058: Icosphere.050
+    100060: Icosphere.051
+    100062: Icosphere.052
+    100064: Torus.014
+    100066: Torus.015
+    100068: Torus.016
+    100070: Torus.017
+    100072: Torus.018
+    100074: Torus.019
+    100076: Torus.020
+    100078: Torus.021
+    100080: Tronc arbre
+    400000: //RootNode
+    400002: Ballon 01
+    400004: Ballon02
+    400006: Branche01
+    400008: Branche02
+    400010: Branche03
+    400012: Cratere
+    400014: Icosphere.022
+    400016: Icosphere.029
+    400018: Icosphere.030
+    400020: Icosphere.031
+    400022: Icosphere.032
+    400024: Icosphere.033
+    400026: Icosphere.034
+    400028: Icosphere.035
+    400030: Icosphere.036
+    400032: Icosphere.037
+    400034: Icosphere.038
+    400036: Icosphere.039
+    400038: Icosphere.040
+    400040: Icosphere.041
+    400042: Icosphere.042
+    400044: Icosphere.043
+    400046: Icosphere.044
+    400048: Icosphere.045
+    400050: Icosphere.046
+    400052: Icosphere.047
+    400054: Icosphere.048
+    400056: Icosphere.049
+    400058: Icosphere.050
+    400060: Icosphere.051
+    400062: Icosphere.052
+    400064: Torus.014
+    400066: Torus.015
+    400068: Torus.016
+    400070: Torus.017
+    400072: Torus.018
+    400074: Torus.019
+    400076: Torus.020
+    400078: Torus.021
+    400080: Tronc arbre
+    2100000: Material.006
+    2100002: Material.004
+    2100004: Material.003
+    2100006: Material.005
+    2100008: Material.008
+    2100010: No Name
+    2300000: Icosphere.022
+    2300002: Icosphere.029
+    2300004: Icosphere.030
+    2300006: Icosphere.031
+    2300008: Icosphere.032
+    2300010: Icosphere.033
+    2300012: Icosphere.034
+    2300014: Icosphere.035
+    2300016: Icosphere.036
+    2300018: Icosphere.037
+    2300020: Icosphere.038
+    2300022: Icosphere.039
+    2300024: Icosphere.040
+    2300026: Icosphere.041
+    2300028: Icosphere.042
+    2300030: Icosphere.043
+    2300032: Icosphere.044
+    2300034: Icosphere.045
+    2300036: Icosphere.046
+    2300038: Icosphere.047
+    2300040: Icosphere.048
+    2300042: Icosphere.049
+    2300044: Icosphere.050
+    2300046: Icosphere.051
+    2300048: Icosphere.052
+    2300050: Torus.014
+    2300052: Torus.015
+    2300054: Torus.016
+    2300056: Torus.017
+    2300058: Torus.018
+    2300060: Torus.019
+    2300062: Torus.020
+    2300064: Torus.021
+    3300000: Icosphere.022
+    3300002: Icosphere.029
+    3300004: Icosphere.030
+    3300006: Icosphere.031
+    3300008: Icosphere.032
+    3300010: Icosphere.033
+    3300012: Icosphere.034
+    3300014: Icosphere.035
+    3300016: Icosphere.036
+    3300018: Icosphere.037
+    3300020: Icosphere.038
+    3300022: Icosphere.039
+    3300024: Icosphere.040
+    3300026: Icosphere.041
+    3300028: Icosphere.042
+    3300030: Icosphere.043
+    3300032: Icosphere.044
+    3300034: Icosphere.045
+    3300036: Icosphere.046
+    3300038: Icosphere.047
+    3300040: Icosphere.048
+    3300042: Icosphere.049
+    3300044: Icosphere.050
+    3300046: Icosphere.051
+    3300048: Icosphere.052
+    3300050: Torus.014
+    3300052: Torus.015
+    3300054: Torus.016
+    3300056: Torus.017
+    3300058: Torus.018
+    3300060: Torus.019
+    3300062: Torus.020
+    3300064: Torus.021
+    4300000: Icosphere.040
+    4300002: Icosphere.039
+    4300004: Icosphere.038
+    4300006: Icosphere.037
+    4300008: Icosphere.036
+    4300010: Torus.021
+    4300012: Torus.020
+    4300014: Torus.019
+    4300016: Torus.017
+    4300018: Torus.016
+    4300020: Icosphere.051
+    4300022: Icosphere.052
+    4300024: Icosphere.032
+    4300026: Torus.018
+    4300028: Icosphere.034
+    4300030: Icosphere.035
+    4300032: Icosphere.022
+    4300034: Icosphere.030
+    4300036: Icosphere.029
+    4300038: Icosphere.044
+    4300040: Icosphere.043
+    4300042: Icosphere.042
+    4300044: Icosphere.041
+    4300046: Icosphere.033
+    4300048: Torus.014
+    4300050: Icosphere.031
+    4300052: Icosphere.050
+    4300054: Icosphere.049
+    4300056: Icosphere.048
+    4300058: Icosphere.047
+    4300060: Icosphere.046
+    4300062: Icosphere.045
+    4300064: Torus.015
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

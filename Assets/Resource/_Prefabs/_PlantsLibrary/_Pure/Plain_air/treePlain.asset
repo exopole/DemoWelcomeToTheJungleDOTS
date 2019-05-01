@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1f279b64462f61d48907325994d99642, type: 3}
+  m_Name: treePlain
+  m_EditorClassIdentifier: 
+  plantName: Bulbium
+  plantType: 3
+  biome1: 1
+  biome2: 0
+  biome3: 0
+  babyModel: {fileID: 1902537719997170, guid: 2ac72d860b9a24b4faef1c2e6bbdad95, type: 2}
+  teenageModel: {fileID: 1694602394559998, guid: a4f9961b7831f2c4c8e4117e6c340d4a,
+    type: 2}
+  grownupModel: {fileID: 1716265515232970, guid: eaef79ee2cc30524fb9e73c6dd6ce484,
+    type: 2}
+  plantIcon: {fileID: 21300000, guid: 8ce3991effa793544a456e73d60e8df0, type: 3}
+  scale: 1
+  desiredGrowthTime: 250
+  maxGrowthTime: 550
+  minGrowthTime: 100
