@@ -1,4 +1,4 @@
-# DemoWelcomToTheJungleDOTS
+# DemoWelcomeToTheJungleDOTS
 
 <div>Here is a little demonstration of DOTS. There is examples of :</div>
 <ul>
